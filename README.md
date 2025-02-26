@@ -18,7 +18,7 @@ You can see the beam angle calculator script in action here:
 
 You can see the candela lumen calculator script in action here:
 
-[Candela Lumen Calculator](https://lamphq.com/beam-angle/)
+[Candela Lumen Calculator](https://lamphq.com/candela-lumen-converter/)
 
 ## Energy Savings Calculator
 
